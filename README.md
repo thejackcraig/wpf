@@ -1,2 +1,2 @@
 # wpf
-A public Repo to learn about WPF and to share knowledge
+A public Repo to acquire and share WPF knowledge
